@@ -6,7 +6,7 @@ namespace git_demostration
     {
         static void Main(string[] args)
         {
-            int a = 7;
+            Console.WriteLine("zyxw");
         }
     }
 }
