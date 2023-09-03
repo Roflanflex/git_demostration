@@ -6,7 +6,7 @@ namespace git_demostration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("858");
+            Console.WriteLine("9000!");
         }
     }
 }
