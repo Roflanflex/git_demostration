@@ -6,8 +6,8 @@ namespace git_demostration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git!");
-
+            int a = 5;
+            int b = a + 7;
         }
     }
 }
